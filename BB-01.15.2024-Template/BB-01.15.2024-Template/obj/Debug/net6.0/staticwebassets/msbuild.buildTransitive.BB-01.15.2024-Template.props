@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BB-01.15.2024-Template.props" />
+</Project>
